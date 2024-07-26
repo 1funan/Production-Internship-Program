@@ -3,20 +3,19 @@
 
 ### 前端
 
-
-、、、
-yarn dev
-、、、
+<code>
+  yarn dev
+</code>
 
 ### 后端
 
-、、、
-node app.js
-、、、
+<code>
+  node app.js
+</code>
 
 ### 整个项目的流程图
 
-![LCT.png](https://pic.imge.cc/2024/07/26/66a3556aa6596.png)
+![LCT.png](https://s21.ax1x.com/2024/07/26/pkbbi7Q.md.png)
 
 ## 主界面
 
