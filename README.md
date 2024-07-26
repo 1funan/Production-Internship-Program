@@ -3,15 +3,11 @@
 
 ### 前端
 
-<code>
-  yarn dev
-</code>
+<code>yarn dev</code>
 
 ### 后端
 
-<code>
-  node app.js
-</code>
+<code>node app.js</code>
 
 ### 整个项目的流程图
 
